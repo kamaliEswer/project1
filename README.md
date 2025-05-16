@@ -1,2 +1,5 @@
-# project1
-This repository for practicing the machine learning algorithms
+#### importing libraties
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
